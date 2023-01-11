@@ -1,0 +1,48 @@
+.logo{
+    height: 100px;
+    border-radius: 50%;
+    margin: 4px;
+}
+.d1{
+    background-image: linear-gradient(rgb(79, 163, 212),rgb(45, 86, 110));
+    height: 120px;
+    width: 1500px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+    position: sticky;
+    top: 1px;
+}
+.l{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: white;
+} 
+#asd:hover{
+    color: orange;
+    transition-delay: 0.1s;
+}
+#asd{
+    text-decoration: none;
+    color: white;
+}
+.i{
+    padding-top: 7px;
+}
+.d2{
+    background-image: url('https://sportsdigest.in/wp-content/uploads/2022/11/Sachin-Tendulkar.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 1500px;
+}
+.d3{
+    background-image: linear-gradient(rgb(45, 86, 110),rgb(79, 163, 212),rgb(45, 86, 110));
+
+}
+
+
+
+
