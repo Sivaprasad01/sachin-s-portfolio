@@ -42,7 +42,9 @@ a{
     background-image: linear-gradient(rgb(45, 86, 110),rgb(79, 163, 212),rgb(45, 86, 110));
 
 }
-
+body{
+overflow-x:hidden;
+}
 
 
 
